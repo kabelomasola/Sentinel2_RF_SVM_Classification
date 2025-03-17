@@ -43,14 +43,3 @@ Author
 
 Contact
 For any inquiries, please contact me via GitHub or email.
-
-
-C:\Users\Kabelo\OneDrive\Documents>
-C:\Users\Kabelo\OneDrive\Documents>cd "C:/Users/Kabelo/OneDrive/Kabelo - University_of_Cape_Town/Classification_workflow
-The system cannot find the path specified.
-
-C:\Users\Kabelo\OneDrive\Documents>Kabelo - University_of_Cape_Town/Documents/Classification_workflow
-'Kabelo' is not recognized as an internal or external command,
-operable program or batch file.
-
-C:\Users\Kabelo\OneDrive\Documents>
