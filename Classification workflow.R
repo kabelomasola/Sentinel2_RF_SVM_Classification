@@ -71,7 +71,3 @@ writeRaster(svm_classified, "SVM_Classification_Midrand.tif", format = "GTiff", 
 
 # Save SVM model
 save(svm_model, file = "svm_model.rda")
-
-
-
-cd path/to/Midrand_LandCover_Classification
